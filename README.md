@@ -2,4 +2,4 @@
 
 Two-person game (recommended).
 
-https://lordkarma88.github.io/Connect4
+https://calvinhg.github.io/Connect4
